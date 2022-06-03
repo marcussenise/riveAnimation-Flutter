@@ -1,16 +1,10 @@
 # intro_rive
 
-A new Flutter project.
+First study of Rive: using the platform Rive to create animations with SVG, using them in Flutter. 
+In this study I used and understood the use of triggers, loops, one shot animations, etc.
 
-## Getting Started
+Send Bowie to space and bring him back! 
+![image](https://user-images.githubusercontent.com/77711349/171964467-f4f60533-4f9e-4ce2-ab24-de32883b3706.png)
+![image](https://user-images.githubusercontent.com/77711349/171964489-dea3279d-3415-4e91-b203-34d022e554c6.png)
+![image](https://user-images.githubusercontent.com/77711349/171964500-eb1fe247-5b48-4192-a5aa-3e51393ea476.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
